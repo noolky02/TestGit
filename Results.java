@@ -35,11 +35,12 @@ public class Student {
    
     void testAll()
  {
-     System.out.println("Hello");
+     System.out.println("Bello");
+     System.out.println("i Am gay");
      return;
 }
 
     int countAll(){
-        return 0;
+        return 1;
     }
 }
